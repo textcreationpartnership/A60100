@@ -1,0 +1,691 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Saints liberty of conscience in the new kingdom of Poland proposed for the consolation of the distressed brethren.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60100</idno>
+            <idno type="STC">Wing S363</idno>
+            <idno type="STC">ESTC R29346</idno>
+            <idno type="EEBO-CITATION">11077053</idno>
+            <idno type="OCLC">ocm 11077053</idno>
+            <idno type="VID">46272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46272)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1431:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Saints liberty of conscience in the new kingdom of Poland proposed for the consolation of the distressed brethren.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Warsaw [i.e. London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Actual place of publication given by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print showthrough with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:46272:1"/>
+            <pb n="1" facs="tcp:46272:1"/>
+            <head>THE <hi>Saints Liberty of Conſcience</hi> In the New Kingdom of POLAND. Propoſed for the Conſolation of the Diſtreſſed Brethren.</head>
+            <p>BRethren and Siſters in Tribulation, who groan under the Yoak of an <hi>Aegyptian</hi> Bondage, what ſhall we do for our Beloved Liberty in this the Day of our Perſecution.</p>
+            <p>
+               <hi>Pharaoh</hi>'s heart is hardened againſt us, and the <hi>Pagan</hi> Tories have prevailed againſt the <hi>Iſrael</hi> of the Lord. The Ark of the Covenant is Removed from us; our Sabbaths and Holy Aſſemblies are interrupted by Phyliſtin-Infidels, our Prophets Perſecuted, and though we are ready to burn with Zeal, they will not allow us to keep Oyl in our Lamps.</p>
+            <p>In this Perſecution of the Saints, this Eclipſe of the Ordinances, what ſhall we do to walk in the Light; ſhall we ſubmit to <hi>Baal</hi>'s Prieſts, or ſtoop to the Golden Image of Heatheniſh Epiſcopacy or Pagan Pope? Verily no. But let us in deſpight of Law and Bondage, Fine and Impriſonment, of the Brethren, reſolve to purſue our Chriſtian Liber<g ref="char:EOLhyphen"/>ty in the free Exerciſe of our Spiritual Graces. And what we cannot perform in Publick Aſſemblies, let us do in private Cabals, Coffe-houſes, Vaults and Cellers.</p>
+            <p>And ſince nothing can be dearer unto poor Chriſtians then Liberty for the free Exer<g ref="char:EOLhyphen"/>ciſe of their Judgments and Conſcience, which, not many Years ago, coſt ſo many Thouſand Lives. And conſidering that the little Finger of Apoſtacy, from our firſt Principles of Sedition and Obſtinacy would be a greater Burden upon our Tender Con<g ref="char:EOLhyphen"/>ſciences than the Loyns of Epiſcopacy, we being bound in Conſcience to reſiſt all Arbitrary Impoſition, cannot reaſonably ſubmit to any Law or Act for Proſecuting Diſſenters.</p>
+            <p>And ſince many Noble and Worthy Lords and Commons of <hi>Poland,</hi> out of their great Zeal and Stedfaſtneſs to the good old Cauſe, have ſtood up, and are ſtill inclinable for Liberty, we might have carryed the Cauſe in the laſt Dyet, did not ſome Mercenary per<g ref="char:EOLhyphen"/>ſons, as the <hi>Obſervator, Heraclitus</hi> and others, Aliens and Strangers to the Common<g ref="char:EOLhyphen"/>wealth of <hi>Iſrael</hi> take up a Reproach againſt us as perſons Reprobated into an Impoſſibility of Submiſſion to Principles of Concord, Loyalty, Peace or Order in Church or State,</p>
+            <p>Therefore to convince theſe ſlanderers, and to the end that a Conſiſtence and Oneneſs of Judgment of the whole Diſſenting Brethren, and their Moderation may be known un<g ref="char:EOLhyphen"/>to all Men, and that the World may know there is a Spirit and Itch of Rule and Govern<g ref="char:EOLhyphen"/>ment as well as Sedition and Hypocraſy reſting in us.</p>
+            <pb n="2" facs="tcp:46272:2" rendition="simple:additions"/>
+            <p>
+               <hi>It is humbly propoſed for the Solace and Comfort of all the Perſecuted Brethren. That the ſole Power of granting Licences and Indulgences for Liberty of Conſcience within the Kingdom of</hi> Poland <hi>may be Teſted in the Perſons undernamed, for the Term of ſeven Years, under the Farm Rent of an Hundred Thouſand Pounds</hi> per Annum, <hi>to Commence from the</hi> 24th <hi>of May next, under ſuch Rates and Qualifications as are hereafter ſpecified.</hi>
+            </p>
+            <list>
+               <item>
+                  <label>
+                     <hi>Ricardo Baxter<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ski</hi>
+                  </label> Arch-Bishop of Poland:</item>
+               <item>
+                  <label>Fr. Bulliski</label> Chaplin</item>
+               <item>
+                  <label>Presby Lobbiski</label> Holderforth</item>
+               <item>
+                  <label>Presby Farendiniski</label> Principal Chaplin</item>
+               <item>
+                  <label>Chevaliero Waleriski</label> Chief Plunderer</item>
+               <item>
+                  <label>Chevaliero Playeriski</label> Chamberlain of the Houſhold.</item>
+               <item>
+                  <label>Chivaliero Claytoniski</label> Purchaſer.</item>
+               <item>
+                  <label>Chevaliero Wardiski</label> Tribune of the Libertines.</item>
+               <item>
+                  <label>Don Pilkintoniski</label> Banker of the Farm Fees.</item>
+               <item>
+                  <label>Don Betheliski</label> Head Maſter General.</item>
+               <item>
+                  <label>Don Papillioneski</label> Tribune of the Factious Tumults.</item>
+               <item>
+                  <label>Don Duboiski</label> Tribune of the Factious Tumults.</item>
+               <item>
+                  <label>Henrici Cariski</label> Pacquetier General</item>
+               <item>
+                  <label>L. Curtiski</label> Publick Mercury</item>
+               <item>
+                  <label>Ben. Hariski</label> Pamphletier General</item>
+               <item>
+                  <label>Henrici Vileski</label> Publick Libeller.</item>
+               <item>
+                  <label>Oggi Shadwelliski</label> Poet Bayſe of <hi>Poland.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Doeggi Sett<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>liski</hi>
+                  </label> Caſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t and Characterer</item>
+               <item>
+                  <label>
+                     <hi>Titus Salam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ncaski</hi>
+                  </label> Poſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>maſter in Ordinary.</item>
+               <item>
+                  <label>
+                     <hi>Mileski Pr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ceski</hi>
+                  </label> Knight of the Poſt and Prin<g ref="char:EOLhyphen"/>cipal Evidence.</item>
+            </list>
+            <p>That the perſons aforeſaid may be Conſtituted Grand Commiſſioners and Farmers of Liberty of Conſcience within this Kingdom of <hi>Poland</hi> and Dominions thereof, and may be Impowred to ſet up a Publick Office, and to Nominate and Elect a Convenient num<g ref="char:EOLhyphen"/>ber of Regiſters, Clerks, and other Officers. And for the more certainty of all Certificates to be granted as is hereafter appointed, we do allow the ſaid Grand Commiſſioners and Farmers to Form and make a Common Sale to be known, and called by the name of <hi>The Publick Sale of the Grand Commiſſioners and Farmers of Liberty of Conſcience.</hi> Engraven <hi>An Aſs without Ears Braying,</hi> with this Motto, <hi>ſtat pro ratione Libertas.</hi> And the ſaid Commiſſioners and Farmers, or any 12 of them in the ſaid Office Aſſembled, may from time to time compound and agree for Liberty of Conſcience with any Perſon or Perſons under ſuch Rates and Qualifications, as are hereafter ſpecified.</p>
+            <p>That the ſaid Grand Commiſſioners or Farmers or any 12 of them, may conſti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ute and appoint under the publick Sale of the Office, Sub-Commiſſioners, and other Offi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs, for every Province and County within the ſaid Kingdom of <hi>Poland,</hi> not exceeding the Num<g ref="char:EOLhyphen"/>ber of 12, for each County werereof 7 to of the <hi>Quorum</hi> who may Compound and agree for Liberty of Conſcience with any Perſon or Perſons, Select Congregations, Citys, Towns Corporat, Pariſhes, Hamlets, and Villages by the great, within their Reſpective Countrys not exceeding the Rates hereafter mentioned.</p>
+            <p>
+               <table>
+                  <head>Rates to be obſerved in all Compoſitions for Liberty of Conſcience.</head>
+                  <row>
+                     <cell>A Presbyterian-Miniſter Silenced.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Presbyterian-Miniſter Convicted upon the Statute, by reaſon of his Charge.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Ruling Elder.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Trap-Door.</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>An Independent-Paſtor.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Teaching-Elder.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er in Government.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Baptiſt admitted to the Admini<g ref="char:EOLhyphen"/>ſtration of all Ordinances.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Preaching-Aſſiſtant.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>An Elder in Office.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Hearer in Fellowſhip, Male or Female, to all Ordinances.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Common-Hearer only.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Fifth-Monarcher admitted to hold forth.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>An Elder under the ſame Admini<g ref="char:EOLhyphen"/>ſtration.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>An Aſſiſtant in Government.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Hearer, Male or Female, in Fel<g ref="char:EOLhyphen"/>lowſhip, according to the Value of his or her Eſtate, 1 <abbr>
+                           <hi>s.</hi>
+                        </abbr> 
+                        <hi>per</hi> Pound.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Speaking Male-Quaker.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Speaking Female.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Common Quaker, Male or Female.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Muggletonian.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Mahumeton.</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Jewiſh Synagogue.</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Jewiſh Prieſt.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Scribe.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Pharaſie.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Seminary or Maſs-Prieſt, turnd Holderforth for Conſcience-ſake.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Jeſuiſt in Maſquerade, Preaching Sedition to the People.</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Any Chief Member or Perſon, un<g ref="char:EOLhyphen"/>der any Adminiſtration, not men<g ref="char:EOLhyphen"/>tioned in the Rates aforeſaid.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Any Common Perſon.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="3" facs="tcp:46272:2"/>
+            <p>At theſe Reaſonable Rates, any perſon may have Liberty and Commiſſion to Prate, Raile, Hear or Preach in any Place and at any Time, provided it be not in publick, any thing in the Law, provided to the contrary notwithſtanding. But for the better Securi<g ref="char:EOLhyphen"/>ty of the outward Man, and that the Saints of the Lord may eſcape the puniſhments of the Sons of Men, and the heavy Tribute and penalties impos'd upon us by <hi>Caeſar,</hi> and or that the Sons of Darkneſs perform their Idolatry of the Maſs, and Common-Prayer Superſtition at Nine of the Clock in the Day time, we order it to be done at Nine a Clock at Night, every Man or Woman in his or her private Chamber, Friends houſe, or Ta<g ref="char:EOLhyphen"/>vern as the Spirit ſhall move them to it.</p>
+            <p>And for the freer Exerciſe of our Conſciences in Matters of Liberty, It is further Propoſed.</p>
+            <p>
+               <table>
+                  <head>Rates to be obſerved in Compounding for Liberty of Conſcience in the Particulars Following.</head>
+                  <row>
+                     <cell>For Liberty to Write, Speak or Preach, againſt the Government, as they ſhall be inwardly moved.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Liberty to Rail againſt the Bi<g ref="char:EOLhyphen"/>ſhops and Common-Prayer.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Liberty to refuſe all manner of Oaths of Allegiance &amp; Suprema<g ref="char:EOLhyphen"/>cy, in Caſes Civil or Criminal.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Liberty to deny Tithes and other Church-Duties</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Liberty to keep on their Hats of Judicature.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Liberty to break your Oath of Allegiance.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Liberty to Aſſert the Solemn League and Covenant.</cell>
+                     <cell>01</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>That any Perſon or Perſons Gifted for any the particulars aboveſaid, may have Liber<g ref="char:EOLhyphen"/>ty therein, provided ſtill it be in private, at the <hi>RATES</hi> aboveſaid.</p>
+            <p>
+               <hi>But that we may neglect neither Means nor Money, to carry on our Cauſe, and gain ſo ma<g ref="char:EOLhyphen"/>ny to our ſide, as Subornation, or the Mammon of <g ref="char:V">Ʋ</g>nrighteouſneſs can Purchaſe, It is Re<g ref="char:EOLhyphen"/>ſolved, That the forementioned Sums ſhall be converted into One General Stock or Fund, to be Diſtributed upon all Occaſions, for the <g ref="char:V">Ʋ</g>ſes following,</hi>
+               <table>
+                  <row>
+                     <cell>For a New Plot.</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For each Witneſs.</cell>
+                     <cell>010</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Impeaching the Q.</cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Impeaching the D.</cell>
+                     <cell>300</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For oppoſing the Succeſſion.</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Excluding the Lawful Heir.</cell>
+                     <cell>050</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Aſſerting a Baſtard.</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Impeaching a Loyal Lord.</cell>
+                     <cell>010</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For clearing a Traytor.</cell>
+                     <cell>500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Subverting of Monarchy.</cell>
+                     <cell>050</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Setling a Common-Wealth.</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Railing at the Government in Publick Dyot.</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For helping to Disband the Army.</cell>
+                     <cell>010</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For calling the Guards a Nuiſance.</cell>
+                     <cell>005</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Voting the Militia into the Par<g ref="char:EOLhyphen"/>liaments Hands.</cell>
+                     <cell>005</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Voting the King no Money.</cell>
+                     <cell>050</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a <hi>Whigg</hi>-Poet, in Penſion, to Write againſt the Government, the Lawreat and Lent-Prologues, <hi>per Annum.</hi>
+                     </cell>
+                     <cell>050</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Caſuiſt and Characterer to Write againſt the Succeſſion.</cell>
+                     <cell>040</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For the Author of the Growth of Popery.</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For the Lawreat, if he had under<g ref="char:EOLhyphen"/>taken it.</cell>
+                     <cell>400</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Libellers and Pamphletiers.</cell>
+                     <cell>020</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To prevent a Juſtice, Headburrow or Conſtable, from Perſecuting the Brethren at the Solemn Aſ<g ref="char:EOLhyphen"/>ſemblies.</cell>
+                     <cell>020</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To bring over an Informer.</cell>
+                     <cell>010</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Suborn a contrary Witneſs.</cell>
+                     <cell>020</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Byas a Jury.</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To bring over a Kings Evidence.</cell>
+                     <cell>010</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To bring over any of the Kings Officers, Servants or Meſſen<g ref="char:EOLhyphen"/>gers, under ſhew of their Duty, to Perſecute his own Friends.</cell>
+                     <cell>040</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And becauſe theſe Heart-burning-Sins of Ours, theſe King-Deſtroying-Sins, theſe Kingdom-Ruining-Sins, theſe Church-Subverting-Sins, and theſe Soul-Confounding-Sins
+<pb n="4" facs="tcp:46272:3"/>of Ours, have brought this Perſecution upon our Heads: For the Bewailing of theſe Sins, let a Day be ſet apart for Publick Faſting and Humiliation, any Declaration or Law to the contrary notwithſtanding; and it is appointed, that the <hi>Twenty-Third</hi> of <hi>April</hi> next, commonly called St. <hi>Georges</hi>-Day, be kept as a Day of Solemn Faſting and Humiliation, for a Bleſſing upon theſe Goſpel-Undertakings; and that Mr. <hi>Bax<g ref="char:EOLhyphen"/>teriski, Bulliski, Lobbiski</hi> and <hi>Burnetiski,</hi> be Deſired to carry on the Work of the Day, and that the particulars following, be Recommended to their Conſiderations in the Work of the Day,</p>
+            <p>Firſt, To Bewail
+<list>
+                  <item>
+                     <hi>All our Court-Sins.</hi>
+                  </item>
+                  <item>
+                     <hi>Our Tory-Sins.</hi>
+                  </item>
+                  <item>
+                     <hi>Our Biſhops-Sins.</hi>
+                  </item>
+                  <item>
+                     <hi>Our Common-Prayer-Sins.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="2">2dly, To Divert
+<list>
+                  <item>
+                     <hi>Our</hi> Oxford-<hi>Jurys.</hi>
+                  </item>
+                  <item>
+                     <hi>Our</hi> Billa Vera-<hi>Jurys.</hi>
+                  </item>
+                  <item>
+                     <hi>Our</hi> Tory-<hi>Counſels.</hi>
+                  </item>
+                  <item>
+                     <hi>Our</hi> Tory-<hi>Judges.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Laſtly, For the Deliverance from our <hi>Tyburn</hi>-Judgments; for the Deliverance from the Conſtables and Goals; for the Deliverance from the Hands of <hi>Ketch,</hi> that Uncir<g ref="char:EOLhyphen"/>cumcis'd <hi>Phyliſtin.</hi>
+            </p>
+            <trailer>EINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>WARSAW,</hi> Printed in the Year, 1683.</p>
+            <pb facs="tcp:46272:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
